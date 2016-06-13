@@ -21,7 +21,7 @@ For image sizes, please keep it 63 for example http://cdn-goeuro.com/static_cont
 If there is no data available in the returned json file then try to find how you can make a proper calculation for it.
 Each list should be ordered by departure time. options to order through arrival time or duration should also be available. Tapping an offer button should display a "Offer details is not yet implemented!" message to the user.
 
-Implement your solution as an app that we can try out. should be comptaible starting with iOS 7 and different iPhone screen sizes. Also send us the source code to your solution. We use GitHub, so it would be much better if you can upload it to a remote Github repositery.
+Implement your solution as an app that we can be tried out. should be comptaible starting with iOS 7 and different iPhone screen sizes. Also send us the source code to your solution. We use GitHub, so it would be much better if you can upload it to a remote Github repositery.
 
 Please provide information for any third party library and tool you are using and use Objective-C as the main language 
   
